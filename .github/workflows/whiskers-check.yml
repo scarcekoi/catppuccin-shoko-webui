@@ -12,6 +12,6 @@ jobs:
     uses: catppuccin/actions/.github/workflows/whiskers-check.yml@v1
     with:
       args: |
-        templates/shock.css.tera
-        templates/shock.json.tera
+        templates/shoko.css.tera
+        templates/shoko.json.tera
     secrets: inherit
